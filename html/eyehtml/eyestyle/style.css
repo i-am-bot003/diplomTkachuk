@@ -1,0 +1,165 @@
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0 0 10px 0;
+  font-size: 20px;
+}
+
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.image{
+  width: 700px;
+  box-shadow: 4px 4px 7px #102d36;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+aside{
+  width: 210px;
+  margin: 0px 30px 0px 0px;
+}
+
+main{
+  display: flex;
+}
+
+.mainHead{
+  height: 170px;;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+
+
+.eyes{
+  display: block;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  width: 100px;
+}
+
+.yey{
+  width: 100px;
+}
+
+#tho{
+  right: 90px
+}
+
+
+
+li{
+  list-style-type: decimal;
+  margin: 5px 0px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #095059;
+}
+
+.boxImg{
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.downloadBtn{
+  width: 200px;
+  height: 70px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.dwnbtn{
+  color: black;
+  font-size: 20px;
+}
+
+article{
+  width:963px 
+}
+
+.center{
+  text-align: center;
+}
+
+hr{
+  width: 600px;
+}
+
+.bluetext{
+  color: black;
+}
+
+.yellow{
+  background: white;
+  padding: 8px;
+  border-radius: 3px;
+}
+
+.normalTitle{
+  color: black;
+}
+
+.redtext{
+  color: black;
+}
+
+.line{
+  text-decoration-line: underline
+}
+
+.tablenum{
+  border-collapse:collapse;
+  
+}
+
+.centertable{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+td{
+  padding: 10px;
+}
+
+.hor{
+  text-indent: 30px
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  width: 400px
+}
+
+input{
+  margin: 10px 0px;
+}
+
+textarea{
+  resize: none
+}
+
+.block{
+  border: 1px solid black;
+  margin: 5px 0px;
+  padding: 7px;
+  border-radius: 5px;
+}
+
+.upper{
+  text-transform: capitalize
+}
